@@ -1,0 +1,1 @@
+module.exports = {    apiKey: "AIzaSyCZPN2Tb1f05VPfHqLzfKhkWLyiZ2SACeY",    authDomain: "chit-chat-75481.firebaseapp.com",    projectId: "chit-chat-75481",    storageBucket: "chit-chat-75481.appspot.com",    messagingSenderId: "547295156339",    appId: "1:547295156339:web:18c50821557ce064aab206"};
